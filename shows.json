@@ -32,8 +32,8 @@
     [
       "09.05.2026",
       "K\u00f6ln, DE",
-      "",
-      "",
+      "Kulturhof Kalk",
+      "Iriai Verlag & Bistro Axa",
       "TBZ"
     ],
     [
@@ -534,31 +534,43 @@
       "13.11.2022",
       "Glasgow",
       "La Chunky",
-      "Tax Free Tour"
+      "Tax Free Tour",
+      "TBZ, w Iris Band"
     ],
     [
       "12.11.2022",
       "Manchester",
-      "",
-      "Tax Free Tour"
+      "NTS Studio",
+      "Tax Free Tour",
+      "GRRRR"
+    ],
+    [
+      "12.11.2022",
+      "Stockport",
+      "All Night Flight",
+      "Tax Free Tour",
+      "w Iris Band"
     ],
     [
       "11.11.2022",
       "London",
       "",
-      "Tax Free Tour"
+      "Tax Free Tour",
+      "w Iris Band"
     ],
     [
       "10.11.2022",
       "K\u00f6ln",
       "Acephale",
-      "Tax Free Tour"
+      "Tax Free Tour",
+      "w Iris Band"
     ],
     [
       "06.11.2022",
       "Berlin",
       "Arkaoda",
-      "Tax Free Tour"
+      "Tax Free Tour",
+      "w Iris Band"
     ],
     [
       "28.10.2022",
@@ -570,7 +582,9 @@
     [
       "",
       "Veronetta",
-      "Rocket Radio"
+      "Rocket Radio",
+      "",
+      "GRRRR"
     ],
     [
       "03.09.2022",
@@ -583,7 +597,7 @@
       "23.08.2022",
       "London",
       "Village Underground",
-      "Witch",
+      "Witch Tour",
       "w Devon Rexi"
     ],
     [
@@ -597,7 +611,7 @@
       "13.08.2022",
       "Amsterdam",
       "Paradiso",
-      "Witch",
+      "Witch Tour",
       "w Devon Rexi"
     ],
     [
@@ -612,7 +626,7 @@
       "Antwerp",
       "Ondestroom",
       "",
-      "w Devon Rexi, Nicolini"
+      "w Devon Rexi, w Nicolini"
     ],
     [],
     [
@@ -630,5 +644,5 @@
       "Montel Palmer"
     ]
   ],
-  "savedAt": "2026-04-22T05:20:48.407748Z"
+  "savedAt": "2026-04-23T05:25:11.281863Z"
 }
