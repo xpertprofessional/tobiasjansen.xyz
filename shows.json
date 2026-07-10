@@ -2,11 +2,32 @@
   "values": [
     [],
     [
+      "15.08.2026",
+      "Samsoe, DK",
+      "Agerupgaard",
+      "Salad Days",
+      "TBZ"
+    ],
+    [
       "14.08.2026",
       "Samsoe, DK",
       "Agerupgaard",
       "Salad Days",
       "La Rat"
+    ],
+    [
+      "19.07.2026",
+      "Hamburg, DE",
+      "",
+      "",
+      "TBZ"
+    ],
+    [
+      "16.07.2026",
+      "Berlin, DE",
+      "Panke e.V.",
+      "",
+      "TBZ"
     ],
     [
       "03.07.2026",
@@ -665,5 +686,5 @@
       "Montel Palmer"
     ]
   ],
-  "savedAt": "2026-07-09T06:37:36.282847Z"
+  "savedAt": "2026-07-10T06:39:01.523016Z"
 }
