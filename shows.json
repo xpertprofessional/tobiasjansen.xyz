@@ -2,16 +2,23 @@
   "values": [
     [],
     [
+      "20.08.2026",
+      "Berlin, DE",
+      "Ohm",
+      "Foggy",
+      "La Rat"
+    ],
+    [
       "15.08.2026",
       "Samsoe, DK",
-      "Agerupgaard",
+      "Sambiosen",
       "Salad Days",
       "TBZ"
     ],
     [
       "14.08.2026",
       "Samsoe, DK",
-      "Agerupgaard",
+      "Sambiosen",
       "Salad Days",
       "La Rat"
     ],
@@ -19,7 +26,7 @@
       "19.07.2026",
       "Hamburg, DE",
       "",
-      "",
+      "Hallo:Radio Sommerfest",
       "TBZ"
     ],
     [
@@ -686,5 +693,5 @@
       "Montel Palmer"
     ]
   ],
-  "savedAt": "2026-08-04T05:41:54.354073Z"
+  "savedAt": "2026-08-05T05:40:50.920140Z"
 }
